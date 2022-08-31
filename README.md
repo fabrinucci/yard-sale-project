@@ -1,1 +1,1 @@
-# yard-sale-project-
+# yard-sale-project
